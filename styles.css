@@ -68,7 +68,7 @@ header {
   justify-content: center;
 }
 
-sect1left,button {
+.sect1left button {
     background-color: #3882f6;
     color: white;
     font-size: 16px;
@@ -140,3 +140,4 @@ sect1left,button {
     color: #1F2937;
     text-align: left;
 }
+
