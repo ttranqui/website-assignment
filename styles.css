@@ -189,3 +189,16 @@ header {
 .sect4left h1 {
     margin: 0px;
 }
+
+footer {
+    background-color: #1F2937;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    color: white;
+    font-size: 16px;
+}
