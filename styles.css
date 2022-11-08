@@ -8,13 +8,16 @@ body {
 
 .headerlinks a {
     text-decoration: none;
-    font-size: 18px;
+    font-size: 21px;
     color: #E5E7EB;
+    font-family: roboto;
+    font-weight: 100;
 }
 
 .headerlinks {
     display: flex;
     gap: 24px;
+    font-weight: 100;
 }
 
 header {
@@ -25,7 +28,7 @@ header {
 }
 
 .headerlogo {
-    font-size: 32px;
+    font-size: 28px;
     color: #f9faf8;
     font-weight: 900;
 }
@@ -73,4 +76,9 @@ sect1left,button {
     height: 40px;
     border-radius: 10px;
     border: none;
+    margin-top: 8px;
+}
+
+.sect1left {
+    margin: 8px;
 }
